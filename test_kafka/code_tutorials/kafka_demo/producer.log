@@ -1,0 +1,4 @@
+2023-02-27 16:22:44 Produced message on topic test-topic with value of {"name": "Kurt Hunt", "email": "ekirby@example.com", "address": "999 Banks Groves Suite 861\nWest Tara, SC 12387"}
+
+2023-02-27 16:22:48 Produced message on topic test-topic with value of {"name": "Nicholas Barker", "email": "barnetttara@example.net", "address": "USNS Flores\nFPO AP 16794"}
+

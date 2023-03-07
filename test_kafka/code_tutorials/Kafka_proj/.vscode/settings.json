@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:/Users/rafaelpereira/Desktop/test_kafka/code_tutorials/kafka_demo_2/jar_files/kafka-clients-3.4.0.jar"
+
+    ]
+}
